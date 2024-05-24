@@ -11,7 +11,9 @@ This project involves analyzing a dataset of retail sales to address various bus
              
 ![Designer](https://github.com/MudassirAhmed744/ADIDAS--SALES-ANALYSIS/assets/73222691/9d9acd30-445c-40cd-82ce-49ba6e8be025)
 
-
+Useful Links
+- Jupyter Notebook:  https://mudassirprojects.runmercury.com/app/final-adidas-sales-analysis-file
+- Dashboard & Story: https://public.tableau.com/views/AdidasUSSalesAnalytics_17165432008700/Introduction?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 ## Dataset Description
 
 The dataset contains the following columns:
